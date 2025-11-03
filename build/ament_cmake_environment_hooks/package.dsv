@@ -1,0 +1,4 @@
+source;share/eureka_nav_lib/local_setup.bash
+source;share/eureka_nav_lib/local_setup.dsv
+source;share/eureka_nav_lib/local_setup.sh
+source;share/eureka_nav_lib/local_setup.zsh
